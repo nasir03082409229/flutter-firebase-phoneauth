@@ -1,43 +1,94 @@
 {
   "project_info": {
-    "project_number": "507796188641",
-    "firebase_url": "https://fir-user-c263d.firebaseio.com",
-    "project_id": "fir-user-c263d",
-    "storage_bucket": "fir-user-c263d.appspot.com"
+    "project_number": "948438002317",
+    "firebase_url": "https://e-water-2dc9d.firebaseio.com",
+    "project_id": "e-water-2dc9d",
+    "storage_bucket": "e-water-2dc9d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:507796188641:android:2fdfb3d659ce512cfc36a0",
+        "mobilesdk_app_id": "1:948438002317:android:c2250559be8d588f3190c4",
         "android_client_info": {
-          "package_name": "comdesign.example.firebase_user_login"
+          "package_name": "com.example.e_water"
         }
       },
       "oauth_client": [
         {
-          "client_id": "507796188641-03an4j5i35239s6od7kuuaec7odlfijf.apps.googleusercontent.com",
+          "client_id": "948438002317-mv0m58hmgq2ch8nphcp35tku8dp8reeu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "comdesign.example.firebase_user_login",
-            "certificate_hash": "b7f9fb418a0ecba68ba756c60061af0e2e0365a3"
+            "package_name": "com.example.e_water",
+            "certificate_hash": "2b96825c56ea1c559030e5cdeb7818b2fe921075"
           }
         },
         {
-          "client_id": "507796188641-fdm7akpktrurdd9mnfa57l157aas7srg.apps.googleusercontent.com",
+          "client_id": "948438002317-mt4o9c01phqu25534ibbai2u530fmjms.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7W2vL8qr474xBacVu51XcrlYnmBTQL_c"
+          "current_key": "AIzaSyC0vKsvS0WTWpyyXyB3A3HBH8rki0_Tywk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "507796188641-fdm7akpktrurdd9mnfa57l157aas7srg.apps.googleusercontent.com",
+              "client_id": "948438002317-mt4o9c01phqu25534ibbai2u530fmjms.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "948438002317-8o82mrunqe2mnmdvm1m795e22coati1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948438002317:android:f26726b0ac6da0ad3190c4",
+        "android_client_info": {
+          "package_name": "comdesign.example.firebase_user_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948438002317-g703ns0sq071mk3aoh7ma0p3vrm4ejr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comdesign.example.firebase_user_login",
+            "certificate_hash": "2b96825c56ea1c559030e5cdeb7818b2fe921075"
+          }
+        },
+        {
+          "client_id": "948438002317-mt4o9c01phqu25534ibbai2u530fmjms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vKsvS0WTWpyyXyB3A3HBH8rki0_Tywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948438002317-mt4o9c01phqu25534ibbai2u530fmjms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948438002317-8o82mrunqe2mnmdvm1m795e22coati1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterChatApp"
+              }
             }
           ]
         }
